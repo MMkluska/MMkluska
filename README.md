@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MMkluska
 - 👀 I’m interested in coding, robotics
-- 🌱 I’m currently learning Java, C#, python
+- 🌱 I’m currently learning Java, C#, Python
 - 📫 How to reach me mateusz.marek.kluska@gmail.com
 
 <!---
